@@ -1,5 +1,14 @@
 header {
     margin-left: 10px;
+    text-shadow: 1px 1px 3px#f6ff00ac;
+}
+
+h1 {
+    font-style: italic; 
+}
+
+h4{
+    font-weight: normal
 }
 
 main {
@@ -9,8 +18,10 @@ main {
     border: inset;
     border-color: rgb(20, 181, 53);
     border-radius: 3px;
+    box-shadow: 1px 1px 5px#f6ff00;
     padding: 0 10px 0;
     margin-top: 0px;
+    text-shadow: 1px 1px 3px#f6ff00ac;
 }
 
 .news-post p {
