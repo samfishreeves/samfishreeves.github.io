@@ -1,0 +1,29 @@
+header {
+    margin-left: 10px;
+    text-shadow: 1px 1px 3px#f6ff00ac; 
+}
+
+h3{
+    font-weight: 500;
+}
+
+div.matchup {
+    margin-left: 20px;
+    margin-right: 10px;
+    border: inset;
+    border-color: rgb(20, 181, 53);
+    border-radius: 3px;
+    padding: 0 10px 0;
+    margin-top: 20px;
+    text-shadow: 1px 1px 3px#f6ff00ac;
+    box-shadow: 1px 1px 5px#f6ff00;
+}
+
+img{
+    margin-top: 10px;
+    max-width: 80vw;
+    display: block;
+    margin: 15px auto;
+    box-shadow: 1px 1px 5px#f6ff00, -1px -1px 5px rgb(20, 181, 53);
+    border-radius: 4px;
+}
