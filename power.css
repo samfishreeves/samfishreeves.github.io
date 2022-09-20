@@ -15,9 +15,17 @@ div.rankings {
     box-shadow: 1px 1px 5px#f6ff00;
 }
 
-img{
+#dew{
     max-width: 30vw;
     display: block;
-    margin:auto;
+    margin: auto;
     margin-top: 40px;
+}
+
+#rankings{
+    max-width: 90vw;
+    display: block;
+    margin: auto;
+    box-shadow: 1px 1px 5px#f6ff00, -1px -1px 5px#9dff00;
+    border-radius: 10px;
 }
